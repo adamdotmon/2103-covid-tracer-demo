@@ -48,6 +48,11 @@ python -u "c:\your\path\to\dir\2103-covid-tracer\no_sql_part\main.py"
 ![Imgur Image](https://imgur.com/0G08RBn.jpg)
 ![Imgur Image](https://imgur.com/ODLtOsn.jpg)
 ![Imgur Image](https://imgur.com/Zpiwab8.jpg)
+Citizen Vaccination History
+![image](https://github.com/user-attachments/assets/3ddf95f2-a44b-4d13-84d4-a5d0e920f700)
+Close Contact Clusters 
+![image](https://github.com/user-attachments/assets/28c179dc-e1db-4285-a983-8c82ae28fb3c)
+
 
 ### Resources
 
