@@ -56,19 +56,19 @@ Close Contact Clusters
 
 ### Resources
 
-###### SQL Cloud Login Details
+###### SQL Cloud Login Details (deprecated)
 
 https://auth-db595.hostinger.com/index.php?db=u696578939_2103_covid
 Username: u696578939_2103_admin
 Password: jDHKIXZb+U0
 
-###### NOSQL MONGO Cloud Login Details
+###### NOSQL MONGO Cloud Login Details (deprecated)
 
 URI: mongodb+srv://admin:tJbJLK8YiYkDKYg@cluster0.96usv.mongodb.net/?retryWrites=true&w=majority
 Username: admin
 Password: tJbJLK8YiYkDKYg
 
-###### Neo4J Cloud Login Details
+###### Neo4J Cloud Login Details (deprecated)
 
 URI: neo4j+s://c6e9b0ba.databases.neo4j.io
 Username: neo4j
